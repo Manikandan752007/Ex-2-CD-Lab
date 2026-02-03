@@ -79,9 +79,9 @@ return 0;
 
 ```
 # OUTPUT
-```
+
 <img width="942" height="644" alt="image" src="https://github.com/user-attachments/assets/01a49507-9442-4ade-a86b-e83b7eb91ea4" />
-```
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
